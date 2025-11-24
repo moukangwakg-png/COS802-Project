@@ -8,10 +8,15 @@ This repository is for an NLP project completed for the course module COS802 wit
 **Key Finding**: Pre-trained LaBSE embeddings outperform fine-tuned versions, challenging conventional fine-tuning practices for low-resource languages.
 
 📁 REPOSITORY Files
+
 2.1. Kinyarwanda_Semrel.ipynb # Main executable notebook with results and visualisations
+
 2.2. Kinyarwanda_Translation_ipynb # Supplementary notebook for translation from English to Kinyarwanda
+
 2.3. translated_kin_train.csv #Translated Kinyarwanda data for augmentation (output from 2.2)
+
 2.4. requirements.txt #List of libraries required to run the code files
+
 2.5. README.md #This file, with the instructions
 
 🚀 QUICK START
