@@ -21,16 +21,16 @@ This repository is for an NLP project completed for the course module COS802 wit
 
 🚀 QUICK START
 
-Prerequisites: 
+3.1. Prerequisites: 
 
-Jupyter compatible environment (Google Colab is ideal but any should do)
+- Jupyter compatible environment (Google Colab is ideal but any should do)
 
-Python libraries as per requirements.txt
+- Python libraries as per requirements.txt
 
-Running the Analysis:
-1. Install packages: `pip install -r requirements.txt`
-2. Start Jupyter: `jupyter notebook`
-3. Open `kinyarwanda_SemRel.ipynb` and click "Cell → Run All"
+3.2. Running the Analysis:
+- Install packages: `pip install -r requirements.txt`
+- Start Jupyter: `jupyter notebook`
+- Open `kinyarwanda_SemRel.ipynb` and click "Cell → Run All"
 
 📋 DATA
 - Uses the English and Kinyarwanda subsets of the SemRel2024 dataset from Hugging Face (https://huggingface.co/datasets/SemRel/SemRel2024)
