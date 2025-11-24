@@ -20,6 +20,7 @@ This repository is for an NLP project completed for the course module COS802 wit
 2.5. README.md #This file, with the instructions
 
 🚀 QUICK START
+
 Prerequisites: 
 Jupyter compatible environment (Google Colab is ideal but any should do)
 Python libraries as per requirements.txt
